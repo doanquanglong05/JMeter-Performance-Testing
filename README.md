@@ -30,9 +30,9 @@ Với cấu hình này, hệ thống dự kiến gửi 10 yêu cầu nếu tất
 
 **Hình 1. Cấu hình Thread Group**
 
-![Hình 1 - Cấu hình Thread Group](screenshots/01-thread-group.png)
 
-[**Xem ảnh 1 - Thread Group**](screenshots/01-thread-group.png)
+
+![Hình 1 - Thread Group](01-thread-group.png)
 
 ### 3.2. Cấu hình HTTP Request
 
@@ -48,9 +48,7 @@ Thông số cấu hình:
 
 **Hình 2. Cấu hình HTTP Request**
 
-![Hình 2 - Cấu hình HTTP Request](screenshots/02-http-request.png)
-
-[**Xem ảnh 2 - HTTP Request**](screenshots/02-http-request.png)
+![Hình 2 - HTTP Request](02-http-request.png)
 
 ### 3.3. Theo dõi kết quả bằng View Results Tree
 
@@ -60,9 +58,7 @@ Thông qua thành phần này, người thực hiện có thể kiểm tra yêu 
 
 **Hình 3. Kết quả kiểm thử bằng View Results Tree**
 
-![Hình 3 - View Results Tree](screenshots/03-view-results-tree.png)
-
-[**Xem ảnh 3 - View Results Tree**](screenshots/03-view-results-tree.png)
+![Hình 3 - View Results Tree](03-view-results-tree.png.png)
 
 ### 3.4. Tổng hợp kết quả bằng Summary Report
 
@@ -79,9 +75,7 @@ Các chỉ số bao gồm:
 
 **Hình 4. Báo cáo tổng hợp Summary Report**
 
-![Hình 4 - Summary Report](screenshots/04-summary-report.png)
-
-[**Xem ảnh 4 - Summary Report**](screenshots/04-summary-report.png)
+![Hình 4 - Summary Report](04-summary-report.png)
 
 ## 4. Kết quả kiểm thử và đánh giá
 
